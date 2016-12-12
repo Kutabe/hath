@@ -3,9 +3,9 @@
 package main
 
 import (
-	"./api"
-	"./cache"
-	"./util"
+	"github.com/kutabe/hath/api"
+	"github.com/kutabe/hath/cache"
+	"github.com/kutabe/hath/util"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"math/rand"
