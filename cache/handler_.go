@@ -3,7 +3,6 @@
 package cache
 
 import (
-	log "../log"
 	"errors"
 	"fmt"
 	"os"
@@ -11,6 +10,8 @@ import (
 	"sort"
 	"strconv"
 	"time"
+
+	log "github.com/kutabe/hath/log"
 	//_ "github.com/mattn/go-sqlite3"
 	//"expvar"
 	"sync"

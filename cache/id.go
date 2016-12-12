@@ -1,13 +1,14 @@
 package cache
 
 import (
-	"../util"
 	"fmt"
 	"os"
 	"path"
 	"regexp"
 	"strconv"
 	"strings"
+
+	"github.com/kutabe/hath/util"
 )
 
 var (

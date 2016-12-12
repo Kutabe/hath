@@ -2,10 +2,11 @@
 package cache
 
 import (
-	log "../util"
 	"database/sql"
-	_ "github.com/mattn/go-sqlite3"
 	"time"
+
+	log "github.com/kutabe/hath/util"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 const (

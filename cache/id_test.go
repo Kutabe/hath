@@ -1,10 +1,11 @@
 package cache
 
 import (
-	. "github.com/smartystreets/goconvey/convey"
 	"os"
 	"testing"
 	"time"
+
+	. "github.com/smartystreets/goconvey/convey"
 )
 
 func Test(t *testing.T) {
