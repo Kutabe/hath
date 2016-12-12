@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./cache"
-	"./util"
+	"github.com/kutabe/hath/cache"
+	"github.com/kutabe/hath/util"
 	"fmt"
 	"net/http"
 	"net/url"
