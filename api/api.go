@@ -1,8 +1,8 @@
 package api
 
 import (
-	"../cache"
-	"../util"
+	"github.com/kutabe/hath/cache"
+	"github.com/kutabe/hath/util"
 	"fmt"
 	"strconv"
 	"strings"

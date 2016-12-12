@@ -1,7 +1,7 @@
 package api
 
 import (
-	"../cache"
+	"github.com/kutabe/hath/cache"
 	"fmt"
 	"math/rand"
 	"net/url"
