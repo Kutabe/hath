@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./api"
+	"github.com/kutabe/hath/api"
 	"fmt"
 	"io/ioutil"
 	"net"
