@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./api"
-	"./cache"
-	"./util"
+	"github.com/kutabe/hath/api"
+	"github.com/kutabe/hath/cache"
+	"github.com/kutabe/hath/util"
 	"github.com/Sirupsen/logrus"
 	"math/rand"
 	"os"
